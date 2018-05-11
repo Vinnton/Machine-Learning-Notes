@@ -1,4 +1,4 @@
-# Machine Learning Notes
+# Machine Learning Notes (in Simplified Chinese/简体中文)
 Contents
 1. Introduction
 2. Supervised Learning
