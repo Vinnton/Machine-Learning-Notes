@@ -1,5 +1,4 @@
-# Machine-Learning-Notes
-Notes on Core parts of Machine Learning.
+# Machine Learning Notes
 Contents
 1. Introduction
 2. Supervised Learning
@@ -8,11 +7,11 @@ Contents
    3. Generative Models for Classification
    4. Support Vector Machines
    5. Learning Theory
-2.	Deep Learning
+3.	Deep Learning
    1. Deep Feedforward Networks
    2. Convolutional Neural Networks
    3. Recurrent Neural Networks
-3.	Unsupervised Learning
+4.	Unsupervised Learning
    1. Variational Autoencoders: VAE
    2. Generative Adversarial Networks: GAN/WGAN
    3. Finite Mixture Models: FMM
